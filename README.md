@@ -1,6 +1,6 @@
 #Hello world
 
-I'm Schon Chen.
+I'm Schon Chen -_-.
 
 ##Today is 2014-03-03
 schon 2
