@@ -6,12 +6,11 @@ I'm Schon Chen -_-.
 schon 2
 
 Hello world
-
+master 2
 ##This is changed on client.
 
-<<<<<<< HEAD
 My name is Meili Chen.
-=======
 Time now 17:16.
 schon 1
->>>>>>> 8e92a0fbcc6b9eb4a38f580b59adafa09ed2a98e
+Time now 22:29.
+master 1
